@@ -1,4 +1,4 @@
-package intro.sorting_searching;
+package sorting_searching;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

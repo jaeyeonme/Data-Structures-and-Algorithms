@@ -1,4 +1,4 @@
-package intro.sorting_searching;
+package sorting_searching;
 
 /**
  * 정수 배열(nums)이 주어지면 0이 아닌 값은 상대적 순서를 유지하고
