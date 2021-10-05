@@ -1,5 +1,8 @@
 package arrays;
 
+/**
+ * 정수 배열 nums가 주어지면 합계가 가장 큰 연속 하위 배열 (최소한 하나의 숫자 포함)을 찾아서 합계를 리턴합니다.
+ */
 public class MaxSubArray {
     public static void main(String[] args) {
 //      int[] nums = { -30, -20, -10, 10 };
