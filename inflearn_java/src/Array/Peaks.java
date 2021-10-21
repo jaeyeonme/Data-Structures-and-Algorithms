@@ -18,7 +18,7 @@ class Peaks {
                 boolean flag = true;
                 for (int k = 0; k < 4; k++) {
                     int nx = i + dx[k];
-                    int ny = i + dy[k];
+                    int ny = j + dy[k];
                     if (nx >= 0 && nx < n && ny >= 0 && ny < n && arr[nx][ny] >= arr[i][j]) {
                         flag = false;
                         break;
