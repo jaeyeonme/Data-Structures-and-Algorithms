@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * N개의 숫자가 공백 없이 쓰져있다. 이숫자를 모두 합해서 출력하는 프로그램을 작성하세요.
  */
-public class SumOfNumber {
+public class Java_11720 {
     public static void main(String[] args) throws IOException {
 
         // BufferedReader 선언 및 반복할 문자열 변수 N 선언
